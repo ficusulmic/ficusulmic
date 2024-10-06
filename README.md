@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ficusulmic&label=intrusions&color=red&style=flat" alt="ficusulmic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ficusulmic&theme=dracula&no-frame=true" alt="ficusulmic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ficusulmic&theme=matrix&no-frame=true" alt="ficusulmic" /></a> </p>
 
 - 🔭 Current mission: **Building the ultimate Google-dorking generator to scrape the web's darkest corners**
 
